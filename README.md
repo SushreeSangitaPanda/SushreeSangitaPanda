@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SushreeSangitaPanda
 - 👀 I’m interested in ...Data Analytics and Data Scienece
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning IITM Advance Professional Programing with Master data science program.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sushreepanda6289@gmail.com
 
